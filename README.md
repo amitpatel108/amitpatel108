@@ -1,11 +1,5 @@
 # Hi, I'm Amit Kumar 👋  
-> Building Scalable AI Systems • Data → Models → APIs → Deployment
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&section=header&text=Amit%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=End-to-End%20AI%20Builder%20%7C%20Data%20Science%20Engineer&descAlignY=70" width="100%"/>
-</p>
-
----
 
 I am a Computer Science student focused on Data Science, Machine Learning, and Data Engineering.
 
