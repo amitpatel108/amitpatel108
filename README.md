@@ -20,7 +20,7 @@ Currently, I am exploring modern data systems and working with technologies such
 - **Languages:** Python, Java (Basic)  
 - **ML/DL:** Scikit-learn, TensorFlow  
 - **Data Engineering:** Hadoop, Spark, Kafka, Airflow, MinIO  
-- **Databases:** PostgreSQL, MongoDB  
+- **Databases:** PostgreSQL, MySql 
 - **Backend & APIs:** FastAPI  
 - **Data Processing:** Pandas, NumPy  
 - **Tools:** Docker, Shell Scripting  
